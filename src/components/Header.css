@@ -1,0 +1,19 @@
+.quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 25% 20px 25%;
+    height: auto;
+    padding: 15px;
+    border: 5px solid lightgrey;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+}
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}

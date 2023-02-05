@@ -1,0 +1,7 @@
+.calendar-container {
+    margin-left: 50px;
+    height: 65vh;
+    width: 80vh;
+    border-radius: 50px;
+    background-color: lightgrey;
+}
