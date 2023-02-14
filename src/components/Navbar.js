@@ -7,7 +7,7 @@ function Navbar() {
     return (
             <div className="navbar">
                 <button className="menu-button"><img src={menu} className="menu-image" alt="menu-icon"/></button>
-                <div className="planitnow">PlanItNow</div>
+                <div className="planitnow">MuminMeet</div>
                 <img className="logo" src={mumin} alt="mumin-icon"/>
                 <div className="user-box">
                     <div className="user-name">Peace Be Upon You, Fomin</div>

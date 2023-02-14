@@ -9,11 +9,27 @@
     border: 5px solid lightgrey;
 }
 .share-event {
+    margin-top: 15px;
     font-size: 23px;
+}
+.share-event ul {
+    list-style: none;
+}
+.share-event b {
+    padding-right: 1em;
 }
 .share {
     width: 78%;
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+}
+.share-event button {
+    margin-top: 15px;
+    background-color: darkgray;
+    width: 45%;
+    height: 35px;
+    border: 3px solid grey;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
 }
