@@ -3,13 +3,12 @@
     left: 47%;
     top: 30%;
     height: 39vh;
-    width: 85vh;
-    margin-left: 5vh;
+    width: 45%;
+    margin-left: 3%;
     border-radius: 50px;
     border: 5px solid lightgrey;
 }
 .event-details {
-    margin-top: 15px;
     font-size: 23px;
     display: flex;
     justify-content: center;
@@ -37,6 +36,7 @@
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .startDate {
     width: 30%;
@@ -44,36 +44,42 @@
     border: 3px solid lightgrey;
     border-radius: 5px;
     margin-right: 1em;
+    margin-top: 5px;
 }
 .endDate {
     width: 30%;
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .startTime{
     width: 30%;
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .endTime {
     width: 30%;
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .durationHours {
     width: 15%;
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .durationType {
     width: 25%;
     height: 25px;
     border: 3px solid lightgrey;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .description {
     width: 78%;
@@ -81,4 +87,5 @@
     border: 3px solid lightgrey;
     border-radius: 5px;
     overflow: scroll;
+    margin-top: 5px;
 }

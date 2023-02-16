@@ -7,12 +7,12 @@ function ShareEvent() {
         <div className="share-event-container">
             <div className="share-event">
                 <ul>
-                    <li><b>Share</b> <input type="text" className="share"/></li>
+                    <b style={{verticalAlign: 'middle'}}>Share</b> <input type="text" className="share"/>
                 </ul>
                 <hr size="4" width="90%" color="grey"/>
                 <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
-                    <button style={{marginRight: '20px'}}>Add Your Schedule</button>
-                    <button>Edit Your Schedule</button>
+                    <button style={{marginRight: '20px', cursor: 'pointer'}}>Add Your Schedule</button>
+                    <button style={{cursor: 'pointer'}}>Edit Your Schedule</button>
                 </div>
             </div>
         </div>
