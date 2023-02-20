@@ -37,8 +37,10 @@
     border: 5px solid lightgrey;
     background-color: white;
     padding: 5px;
-    overflow: scroll;
 }
 .user-name {
+    overflow: hidden; 
+    white-space: nowrap;
+    text-overflow: ellipsis;
     font-size: 15px;
 }

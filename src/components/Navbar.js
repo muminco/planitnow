@@ -10,7 +10,7 @@ function Navbar() {
                 <div className="planitnow">MuminMeet</div>
                 <img className="logo" src={mumin} alt="mumin-icon"/>
                 <div className="user-box">
-                    <div className="user-name">Peace Be Upon You, Fomin</div>
+                    <div className="user-name">Peace Be Upon You, Thayyil</div>
                 </div>
             </div>
     );
